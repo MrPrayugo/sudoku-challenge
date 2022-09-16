@@ -30,3 +30,16 @@ hr {
   display: flex;
   flex-wrap: wrap;
 }
+
+.tile {
+  width: 48px;
+  height: 48px;
+  border: 1px solid rgb(148, 222, 222);
+
+  /* Text */
+  font-size: 20px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
