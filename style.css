@@ -57,3 +57,7 @@ hr {
   justify-content: center;
   align-items: center;
 }
+
+.number-selected {
+  background-color: rgb(4, 110, 110);
+}
